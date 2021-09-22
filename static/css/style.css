@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Space Mono', monospace;
+    line-height: 1.6;
+}
+body {
+    max-width: 940px;
+    margin: 0 auto;
+    background-color: #223;
+    color: #eee;
+}
